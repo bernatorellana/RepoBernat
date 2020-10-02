@@ -37,8 +37,10 @@ public class Persona implements Comparable<Persona>{
 
     @Override
     public String toString() {
-        return "Persona{" + "id=" + id + ", nom=" + nom + '}';
+        return "Persona====={" + "id=" + id + ", nom=" + nom + '}';
     }
+    
+    
     
     
     

@@ -103,6 +103,9 @@ public class JungantAmbMaps {
             System.out.println(">" + p );
         }
 
+        //
+        System.out.println("He fet un canvi");
+        
         
     }
     
