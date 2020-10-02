@@ -1,7 +1,7 @@
 package jungantambmaps;
 
 /**
- *
+ * La classe persona representa una persona
  * @author bernat
  */
 public class Persona implements Comparable<Persona>{
@@ -35,6 +35,7 @@ public class Persona implements Comparable<Persona>{
         //return this.nom.compareTo(p.nom);
     }
 
+    
     @Override
     public String toString() {
         return "Persona====={" + "id=" + id + ", nom=" + nom + '}';
