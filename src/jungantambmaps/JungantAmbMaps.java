@@ -104,7 +104,7 @@ public class JungantAmbMaps {
         }
 
         //
-        System.out.println("He fet un canvi");
+        System.out.println("He fet un canvi DES DEL PRINCIPAL");
         
         // Canvi a la còpia
         System.out.println("Sóc còpia");
